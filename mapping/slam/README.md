@@ -21,3 +21,8 @@ In the update step, the SLAM algorithm uses sensor measurements to update the ro
 - **Innovation Calculation**: The difference between the actual measurement and the predicted measurement (innovation) is calculated.
 - **Kalman Gain Calculation**: The Kalman gain is computed, which determines the weight given to the innovation.
 - **State and Covariance Update**: The predicted state and covariance are updated using the innovation and the Kalman gain. This step adjusts the robot's position and orientation as well as the positions of landmarks to better fit the actual measurements.
+
+
+## TODO List
+- [ ] Add more complex examples that include jacobian and noise covariance.
+- [ ] Add Kalman gain calculations
