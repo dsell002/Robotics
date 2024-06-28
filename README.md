@@ -1,5 +1,5 @@
 # Robotics
-This directory contains various examples of techniques and algorithms useful in robotics and autonomy. Each subdirectory focuses on a specific topic, providing example code and explanations.
+This repository contains various examples of techniques and algorithms useful in robotics and autonomy. Each subdirectory focuses on a specific topic, providing example code and explanations.
 
 ## Directory Structure
 
