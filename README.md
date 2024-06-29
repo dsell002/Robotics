@@ -3,7 +3,10 @@ This repository contains various examples of techniques and algorithms useful in
 
 ## Directory Structure
 
+- [localization](localization)
+- [mapping](mapping): Mapping using SLAM
 - [path_planning](path_planning): Various path planning algorithms.
+- [perception](perception): Examples for Multi-Object-Tracking and Scene Stat Estimation
   
 ## TODO List
 - [ ] Add additional directories for perception.
